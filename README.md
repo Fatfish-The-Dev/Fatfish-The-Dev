@@ -1,4 +1,4 @@
-# Purpose of this new Github account?
+# Purpose of this new Github account
 
 Hi folks! 
 I am a Backend Dev currently engaged in a more than year long process to transition to a ML Engineer
