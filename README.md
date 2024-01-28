@@ -18,7 +18,8 @@ I hope you find them helpful as most of them will fit under the category of self
 
 ## Projects
 
-- Project 1: Automated-Instragram-Poster
+- Project 1: [Automated-Instragram-Poster](https://github.com/Fatfish-The-Dev/Automated-Instragram-Poster?tab=readme-ov-file)
+
 
 Even though I've had an Instagram account, I've never posted anything ( mainly to preserve my privacy )
 
@@ -36,9 +37,9 @@ But feel free to repurpose it to however you see fit
 
 
 ## Contact Info
-Linkedin: https://www.linkedin.com/in/marcus-seungho-lee/
+[Linkedin](https://www.linkedin.com/in/marcus-seungho-lee/)
 
-Email: thedevelopingfatfish@gmail.com
+[Email](thedevelopingfatfish@gmail.com)
 
 <!---
 Fatfish-The-Dev/Fatfish-The-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
