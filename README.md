@@ -39,7 +39,7 @@ But feel free to repurpose it to however you see fit
 ## Contact Info
 [Linkedin](https://www.linkedin.com/in/marcus-seungho-lee/)
 
-[Email](thedevelopingfatfish@gmail.com)
+Email: thedevelopingfatfish@gmail.com
 
 <!---
 Fatfish-The-Dev/Fatfish-The-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
